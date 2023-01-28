@@ -1,0 +1,3 @@
+[submodule "damn-vulnerable-defi"]
+	path = damn-vulnerable-defi
+	url = https://github.com/tinchoabbate/damn-vulnerable-defi
